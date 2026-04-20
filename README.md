@@ -1,32 +1,27 @@
-# GitScope v5 Fixed
+# GitScope 🔍
 
-Fully fixed local React CDN version.
+A premium GitHub portfolio analyzer with recruiter-focused insights.
 
-## Included
-- Premium dark UI
-- Recruiter mode
-- Compare mode
-- Animated score ring
-- Better charts
-- Contribution heatmap
-- Profile README preview
-- Repo health score
-- Repo details modal
-- Export report
-- Fixed recruiter text wrapping
-- Fixed responsive cards
+## 🚀 Features
 
-## Run
-```bash
-cd gitscope_v5_fixed
-python -m http.server 5500
-```
+- Portfolio score system  
+- Recruiter view preview  
+- Compare two GitHub users  
+- Repo health scoring  
+- Language usage charts  
+- Activity trend chart  
+- Contribution heatmap  
+- Profile README preview  
+- Clean dark UI  
 
-Open:
-```bash
-http://localhost:5500
-```
+## 🛠 Tech Stack
 
-## Important
-Do a hard refresh once:
-- Windows: Ctrl + Shift + R
+- React  
+- Chart.js  
+- HTML / CSS / JavaScript  
+
+## 👤 Author
+
+Musfiqur Rahman Sama
+
+
