@@ -73,9 +73,7 @@ http://localhost:5500
 
 ---
 
-## 📸 Screenshots
 
-*Add screenshots here for better presentation*
 
 ---
 
